@@ -7,4 +7,4 @@ project for 5 weeks.
 
 Field: Computer Science
 
-[Detecting Motion in Digital Images](https://docs.google.com/document/d/1k3ytyJ9_w4_1vuvuA8d-8OvcizUd8HiZodqQRga-0HE/edit?usp=sharing) (https://docs.google.com/presentation/d/1WkuEEpHCYGI-BoZJQs5PTXSXwBoU36PvgB6o4GnUZiI/edit?usp=sharing) 
+[Detecting Motion in Digital Images](https://docs.google.com/presentation/d/e/2PACX-1vQ0BUZeYK29sknCwAlqPeB_hIYLeOSRA6TNy13nLAkn-GMDDXqX0ZADrv_nDmh1N_w22ay1rzG7Po2C/pub?start=true&loop=false&delayms=5000)(<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0BUZeYK29sknCwAlqPeB_hIYLeOSRA6TNy13nLAkn-GMDDXqX0ZADrv_nDmh1N_w22ay1rzG7Po2C/embed?start=true&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>)
